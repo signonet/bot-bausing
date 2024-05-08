@@ -1,0 +1,1263 @@
+[
+  {
+    "ref": "0e4d6980-7a35-47a5-b13b-4b2c84df5d5d",
+    "keyword": "bfd06e15242e1cdd92f028f51d97ede9",
+    "answer": "Colchones",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "38157cf365ffde2021f85536d32e6dc4"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "1610c556-f7da-4460-9eba-6d8e79ac7ba9",
+    "keyword": null,
+    "answer": "¡Hola Oscar! En nuestro catálogo de colchones tenemos una variedad de opciones en diferentes tamaños y estilos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "b74944a6d2805ed0a683cf504f491bf3"
+  },
+  {
+    "ref": "ba83436a-25bc-426d-be86-65bed7ff84ec",
+    "keyword": null,
+    "answer": "¿Estás buscando algún tamaño en particular o necesitas alguna característica especial en tu colchón? ¡Estoy aquí para ayudarte a elegir el colchón perfecto para ti! 😉",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "dcc9ba2ebbf6ba3824c1b465867839bd"
+  },
+  {
+    "ref": "690147c9-16ec-4fd2-94c5-8f969ae72978",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Colchon 140",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "9f9f7edf8c6184d72242007612405a40"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "dad2fdab-5729-47ea-98d9-c00e8e43ea2e",
+    "keyword": null,
+    "answer": "¡Claro, Oscar! Tenemos diferentes opciones de colchones en tamaño 140. ¿Estás interesado en un colchón específico de esa medida o te gustaría que te presente algunas opciones disponibles en nuestro catálogo? ¡Estoy aquí para brindarte toda la información que necesites! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "ee7efdc1047339fdf3d0f3b3f4db1a16"
+  },
+  {
+    "ref": "5a3e2ef9-60d6-4433-875f-4e929641f921",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Que colchones tienen ?",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "6de7b5a7b4b8b5390bacd0e2e9338bd2"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "b020c934-0ba5-4c59-b595-902bd4bb400e",
+    "keyword": null,
+    "answer": "¡Claro, Oscar! Tenemos varios colchones disponibles en tamaño 140 en nuestro catálogo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "c01eef7add1d2541012a2470a622356c"
+  },
+  {
+    "ref": "cb75ab62-9443-46a3-9041-79b3c5f9a2ae",
+    "keyword": null,
+    "answer": "Algunas opciones son: \n- 140 Luxor espuma 26 cm\n- 140 Euro Resorte\n- 140 Valencia (ex Picasso)\n- 140 Genova\n- 140 Familiar flexigom\n\nEstos son solo algunos de los modelos que ofrecemos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "193ac90bdb41a9afcad8191a45a50ba5"
+  },
+  {
+    "ref": "d8464b62-6265-41d1-9449-b7b4d52b2811",
+    "keyword": null,
+    "answer": "¿Te gustaría más detalles sobre alguno en particular o conocer otras opciones disponibles? ¡Estoy aquí para ayudarte a elegir el mejor colchón para ti! 😉",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "89c8464b388fd3f7edf245f9dd04f865"
+  },
+  {
+    "ref": "32621e0d-2609-4ec4-8037-fd9abc9a8bcd",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "El luxor",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "d1f6067c3252d43c733066a26721275a"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "24332bbe-1d37-43c5-b1ec-6483cc969860",
+    "keyword": null,
+    "answer": "El Colchón 140 Luxor espuma de 26 cm es una excelente opción",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "5ec3083f497f6b50e6b04a72393cb39d"
+  },
+  {
+    "ref": "ab5d9c0d-8018-4cec-9501-261fcfb019a4",
+    "keyword": null,
+    "answer": "Ofrece un soporte y confort ideales para un descanso reparador",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "14ef86354d4189d2a7071b6fd4c0f346"
+  },
+  {
+    "ref": "4b07b242-0cce-4626-94c6-b3e9b0f8bf68",
+    "keyword": null,
+    "answer": "Además, su diseño de espuma de alta calidad garantiza durabilidad y comodidad",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "a94a95bb8013f76b21aaa8b7685895bf"
+  },
+  {
+    "ref": "847c9621-0fe6-4936-a9b5-1e6cfb7da074",
+    "keyword": null,
+    "answer": "¿Te gustaría conocer más detalles sobre este colchón o quieres saber sobre alguna otra opción? Estoy aquí para ayudarte con lo que necesites, ¡Oscar! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "5e6186cb51082d8c3c77fe1be8c1a46d"
+  },
+  {
+    "ref": "fcf48b4c-0eb2-4bbd-9bd5-e022a9314d54",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Que precio tiene?",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "c80d835a456f01b40d1026c888416c6d"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "fc84214b-9024-4aa4-9d5f-4c43d7e367c7",
+    "keyword": null,
+    "answer": "El colchón 140 Luxor espuma de 26 cm tiene un precio de $180.000,00. Es una excelente inversión para garantizar un buen descanso y confort",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "92645aac068bea0799b559209aecc5da"
+  },
+  {
+    "ref": "ec37a705-8eb3-4875-830e-8bc299d0ef82",
+    "keyword": null,
+    "answer": "¿Te gustaría saber más detalles sobre la entrega o alguna otra consulta? Estoy aquí para ayudarte, ¡Oscar! 😉",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "947e33f2d82908d64d1e2c3e435563f2"
+  },
+  {
+    "ref": "95306b60-c494-4c67-92b8-b7d3646954d4",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "En somier que tienen ?",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "5cea3505001f1734abb5cd0f68df911d"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "b7a17dab-fa45-4d69-a984-7eb1dfcf666f",
+    "keyword": null,
+    "answer": "¡Claro, Oscar! En cuanto a somieres, también contamos con una variedad de opciones para complementar tu colchón y mejorar tu descanso",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "b95077e3ddfaa77d8fbead52c3a45d44"
+  },
+  {
+    "ref": "b6d090f3-8265-4d3e-a747-8e79eec93f38",
+    "keyword": null,
+    "answer": "¿Estás buscando algún tamaño específico o características especiales en un somier? ¡Estoy aquí para ayudarte a encontrar el somier perfecto para ti! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "b9aa097894bf8daca8ae7aeea476bd93"
+  },
+  {
+    "ref": "983170da-bbaf-48cd-8f1a-7f5a2629aaec",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "De dos plazas",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "2c646b9bbd2a4954fd8eee6ff24286fb"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "df18ec54-d72d-4cd2-a26f-87f3ce3b8a32",
+    "keyword": null,
+    "answer": "Para somieres de dos plazas, tenemos varias opciones disponibles en nuestro catálogo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "e59739b984cfc10f8f7540801b52bd03"
+  },
+  {
+    "ref": "f24237b6-7ca9-4d64-b395-8944c78ab247",
+    "keyword": null,
+    "answer": "Algunos de los modelos que ofrecemos son:\n- Somier de dos plazas modelo Clásico\n- Somier de dos plazas con cabecera acolchada\n- Somier de dos plazas con patas de madera\nEstos somieres brindan una excelente base para tu colchón y garantizan un soporte adecuado para un buen descanso",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "0236478de3ff09a99d51a24723ba4552"
+  },
+  {
+    "ref": "8a9fcdc5-e207-4257-8866-79f5fc6e09bc",
+    "keyword": null,
+    "answer": "¿Tienes alguna preferencia en particular o te gustaría conocer más detalles sobre alguno de estos modelos? ¡Estoy aquí para ayudarte a encontrar el somier ideal para ti, Oscar! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "087af511befaf466160e5bd9ff58e507"
+  },
+  {
+    "ref": "2c60affd-907c-4cc5-8f0b-1a820406ff5d",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Clásico",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "35bb9262bbd49f73417b302ca3dc6313"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "dac7aeee-82f5-4a45-8bbb-ddec690f2510",
+    "keyword": null,
+    "answer": "El Somier de dos plazas modelo Clásico es una excelente elección",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "ba9ef860a1709a978f96f32a7476926e"
+  },
+  {
+    "ref": "6939bea6-74be-4131-ad0a-d847752c7484",
+    "keyword": null,
+    "answer": "Proporciona un soporte firme y duradero para tu colchón, contribuyendo a mejorar la calidad de tu descanso",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "82404c1ef45928a66e69a5a15634600f"
+  },
+  {
+    "ref": "dbd56280-9a45-4e6b-9368-32b0c4ae214b",
+    "keyword": null,
+    "answer": "¿Te gustaría saber más detalles sobre este somier clásico o necesitas ayuda adicional para tomar una decisión? ¡Estoy aquí para ayudarte en lo que necesites, Oscar! 😉",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "53f9a081846a10e40f5dc8452263834e"
+  },
+  {
+    "ref": "1a1ffa19-e39a-4245-9090-9a5709a1d406",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Que precio tiene el clásico",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "6def7c03fceeeaed9395b125ff16f330"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "472cedc3-ab91-455d-a354-2b35640b48cd",
+    "keyword": null,
+    "answer": "El somier de dos plazas modelo Clásico tiene un precio de $X",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "ec7624e151f0f71dcf7c3fadba186973"
+  },
+  {
+    "ref": "c68ece7e-95c1-411a-9c8d-f4074454efbb",
+    "keyword": null,
+    "answer": "Te ofrezco una excelente relación calidad-precio y la garantía de un producto duradero y confiable para tu descanso",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "ed67c454d68720ab5d880c9eb08979bc"
+  },
+  {
+    "ref": "901670c1-58bf-451f-8645-ec1eccd188a0",
+    "keyword": null,
+    "answer": "¿Te gustaría conocer más detalles sobre la entrega o tienes alguna otra consulta? Estoy aquí para asistirte, ¡Oscar! 😉",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "337bbace72404ab721962e2fc5cba63c"
+  },
+  {
+    "ref": "937c4f4e-dda5-4471-be4b-72fbdae121ec",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Heladeras?",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "02048ecdf7b7732232ac12b6448ed4ea"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "8606ba4b-516a-4f50-b52e-98a7ac66c3a0",
+    "keyword": null,
+    "answer": "¡Claro, Oscar! En nuestro catálogo contamos con una variedad de heladeras para satisfacer tus necesidades",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "8e3a353e1eda6d332b77d44f731271b8"
+  },
+  {
+    "ref": "70fe0f35-fe60-4dfe-8aec-66f15f9b8b9e",
+    "keyword": null,
+    "answer": "¿Estás buscando una heladera en particular, como un modelo específico o alguna característica especial? ¡Estoy aquí para ayudarte a encontrar la heladera perfecta para ti! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "a5b03cc2d193d2adcae6f20391244f34"
+  },
+  {
+    "ref": "349d12b8-4f90-4d5b-9deb-ffd87e7fa88e",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Cuales tienen ?",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "49cf5c4a4e375124217d2b1621730ab9"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "c929a012-f792-416d-a5f9-f630b84542d0",
+    "keyword": null,
+    "answer": "En cuanto a heladeras, contamos con las siguientes opciones en nuestro catálogo:\n- Heladera Drean plata de 362 litros con dispensador\n- Heladera Drean negra de 396 litros con dispensador\n- Heladera Drean plata de 314 litros\n- Heladera Bambi blanca de 1600 litros con dispensador\n- Heladera Drean negra de 314 litros\nEstas son solo algunas de las heladeras que ofrecemos",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "cf49b0edaf5698af0ecb6ce419faf885"
+  },
+  {
+    "ref": "326ecc18-6938-4fc6-b20e-09e39749cc2b",
+    "keyword": null,
+    "answer": "¿Te gustaría más detalles sobre alguna de estas opciones o conocer otros modelos disponibles? ¡Estoy aquí para ayudarte a elegir la heladera ideal para tus necesidades, Oscar! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "acf06d1e9d17c751f6f2a5141613a95d"
+  },
+  {
+    "ref": "952606bf-6657-40b4-af5f-b4675991934f",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Electrodomésticos",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "62fe9dc1a45faad281f1f6675e8779a9"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "575826ee-cd31-43c8-afbc-bd1d97b0e6c6",
+    "keyword": null,
+    "answer": "¡Claro, Oscar! En nuestra tienda también contamos con una variedad de electrodomésticos para equipar tu hogar",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "a7c114fa79e20b1122e5f8e60d2cb4fe"
+  },
+  {
+    "ref": "99352ad0-742b-45b0-8bd9-b310f7007a1f",
+    "keyword": null,
+    "answer": "Desde cocinas hasta lavarropas y aires acondicionados, ¡tenemos todo lo que necesitas! ¿Hay algún electrodoméstico en específico del que te gustaría obtener más información? ¡Estoy aquí para ayudarte a elegir los mejores productos para tu hogar! 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "d99463c86cf67538cdbf423c8480eeab"
+  },
+  {
+    "ref": "2b23ffb7-1c42-409d-b10c-f36b2de2c0bd",
+    "keyword": "266618e090dbfa63251e461f6def67d2",
+    "answer": "Lavarropas",
+    "options": {},
+    "from": "5493513053753",
+    "refSerialize": "38c614ecc2779009aeaef9da98881548"
+  },
+  {
+    "ref": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "keyword": "key_6bc13b9c-bfe2-4b2e-b9da-da7e1d2206c0",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "4fccba1f0baa3ce5e795260b22f45374",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_7e05f831-ebb3-477b-a7e1-77aa366ef0f3",
+    "keyword": "ans_105cacba-dad4-46b9-88d1-32363665d642",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "266618e090dbfa63251e461f6def67d2",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "4a3b77c2-555b-4648-80b5-65b5edd599d2",
+    "keyword": null,
+    "answer": "Para los lavarropas, ofrecemos varias opciones de marcas reconocidas que garantizan un lavado eficiente y de calidad",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "ea2ad305e3e2638a4879cd859dd3ca9d"
+  },
+  {
+    "ref": "ed7a53f5-509d-4bb1-ad16-50bc60beb7dd",
+    "keyword": null,
+    "answer": "Algunos de los modelos disponibles en nuestro catálogo son:\n- Lavarropa Next 8·14 PG Plata Eco Drean\n- Lavarropas Drean Next 10.12 PG Plata\n- Lavarropa Next 6.06 Eco Drean\n\nEstos son solo algunos de los lavarropas que tenemos disponibles",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "876abad446127b3a76aa873042801e43"
+  },
+  {
+    "ref": "1663f951-cb2f-4e88-a327-435f44e3a466",
+    "keyword": null,
+    "answer": "¿Te gustaría más detalles sobre alguno de estos modelos o conocer otras opciones que ofrecemos? Estoy aquí para ayudarte, ¡Oscar! 😉",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493513053753",
+    "refSerialize": "8c6ef1d9abadffe2000a94724846f8a9"
+  }
+]
